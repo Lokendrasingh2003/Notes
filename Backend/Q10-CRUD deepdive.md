@@ -4,7 +4,7 @@
 
 **CRUD stands for Create, Read, Update, and Delete.**
 
-These are the four basic operations performed on data in most backend applications.
+These are the four   basic operations performed on data in most backend applications.
 
     C → Create
     R → Read
